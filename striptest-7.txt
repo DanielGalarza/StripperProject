@@ -1,0 +1,1 @@
+/* testing one block comment, on a line, no additional text */

@@ -1,0 +1,6 @@
+this the 10 test
+there are several blank spaces		in     this file
+
+namely 2 blank lines and several tabs 
+
+	the end

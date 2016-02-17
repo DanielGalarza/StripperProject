@@ -1,0 +1,7 @@
+this is an example with multiple line comments /*   test   */
+/**
+ * Block test 2 
+ */  text on the same line as the end of a block comment
+some more text to test 
+testing /*********************/     end of test
+/*   */test

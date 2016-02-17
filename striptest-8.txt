@@ -1,0 +1,8 @@
+/* testing one block comment,
+ * across several lines,
+ * no additional text
+
+
+
+
+ */
